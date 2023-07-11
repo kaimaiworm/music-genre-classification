@@ -16,13 +16,13 @@ Stack  | 0.8713 | 0.5251 | 0.5144 | 0.5197 |
 GB  | 0.8613 | 0.4896 | 0.5773 | 0.5298 | 
 
 
+EDA for selected variables by class, shows that distriution mass is similar vor both classes:
+
+<img src="https://github.com/kaimaiworm/music-genre-classification/assets/70534743/1ee5761a-db42-4fe6-854e-4e5539b22d1d" width="700">
+
 ROC Curve of selected models:
 
-<img src="https://github.com/kaimaiworm/music-genre-classification/assets/70534743/8489c77d-8f38-47af-bdbd-3c22850f6f3b" width="500">
-
-
-
-
+<img src="https://github.com/kaimaiworm/music-genre-classification/assets/70534743/8489c77d-8f38-47af-bdbd-3c22850f6f3b" width="700">
 
 
 Data: 
